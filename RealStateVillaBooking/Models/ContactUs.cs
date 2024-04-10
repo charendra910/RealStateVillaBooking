@@ -22,3 +22,4 @@ namespace RealStateVillaBooking.Models
         public string Message { get; set; }
     }
 }
+
