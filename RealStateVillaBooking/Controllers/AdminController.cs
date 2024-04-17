@@ -7,6 +7,7 @@ namespace RealStateVillaBooking.Controllers
         public IActionResult Dashboard()
         {
             return View();
+            
         }
         public IActionResult AdminProfile()
         {
