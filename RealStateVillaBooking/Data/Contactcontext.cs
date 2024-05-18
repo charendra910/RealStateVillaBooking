@@ -15,6 +15,7 @@ namespace RealStateVillaBooking.Data
 
 
 {
+
 }
         public DbSet<ContactUs> ContactTable { get; set; }
     }
